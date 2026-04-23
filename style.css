@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     background: #f4f4f9;
     margin: 0;
+<<<<<<< Updated upstream
     padding: 30px;
 }
 
@@ -12,4 +13,7 @@ body {
     padding: 25px;
     border-radius: 12px;
     box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+=======
+    padding: 80px;
+>>>>>>> Stashed changes
 }
