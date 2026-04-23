@@ -16,3 +16,14 @@ body {
 h1, h2 {
     color: #222;
 }
+
+.note-form textarea {
+    width: 100%;
+    min-height: 120px;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    resize: vertical;
+    box-sizing: border-box;
+}
